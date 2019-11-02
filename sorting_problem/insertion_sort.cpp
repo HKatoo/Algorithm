@@ -1,20 +1,7 @@
-#include <algorithm>
 #include <fstream>
-#include <functional>
 #include <iostream>
-#include <map>
-#include <numeric>
-#include <queue>
-#include <set>
-#include <string>
-#include <unordered_map>
-#include <utility>
-#include <vector>
+
 using namespace std;
-#define ALL(x) (x).begin(), (x).end()
-#define SZ(x) long long((x).size())
-#define OUT(x) cout << (x) << endl
-typedef long long ll;
 
 // O(n^2)
 int main() {
