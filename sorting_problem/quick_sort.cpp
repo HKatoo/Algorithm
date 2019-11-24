@@ -2,9 +2,6 @@
 #include <iostream>
 #include <utility>
 using namespace std;
-#define ALL(x) (x).begin(), (x).end()
-#define OUT(x) cout << (x) << endl
-typedef long long ll;
 
 int pivot(int a[], int l, int r) {
     int i = l + 1;
